@@ -1,3 +1,5 @@
+https://www.inforsec.org/wp/?p=3921
+
 # VIEM
 
 VIEM (short for Vulnerability Information Extraction Model) is a tool used for automatically extracting vulnerable software names and versions from unstructured reports. It combines a Named Entity Recognition (NER) model and a Relation Extraction (RE) model. The goal is to enable the possibility to continuously monitor different vulnerability reporting websites and periodically generate a **diff** from the CVE/NVD entries. 
